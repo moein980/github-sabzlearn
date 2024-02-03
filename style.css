@@ -5,4 +5,5 @@ body{
 html{
     font-size: 18px;
     font-family: serif;
+    border-radius: 8px;
 }
